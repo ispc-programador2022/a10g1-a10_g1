@@ -12,7 +12,7 @@ def radicacion(a, b):
 
         return round(resultado, 4)
 
-    # Excepción para índice no sea 0
+    # Excepción para índice 0
     except ZeroDivisionError:
         return 'Error, el índice de una raiz no puede ser 0'
     except Exception as e:
