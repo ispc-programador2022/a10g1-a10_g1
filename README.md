@@ -1,12 +1,23 @@
-# a10g1-a10_g1
+[![banner](https://iili.io/hQLKKB.png)](https://iili.io/hQLKKB.png)
 
-a10g1-a10_g1 created by GitHub Classroom
+##  SITUACIÓN PROFESIONAL 1
+> Construir una aplicación en Python
+###   👩🏽‍💻 EQUIPO 👨🏽‍💻
+- Agustín	Oliva
+- Analía Noemí	Perez
+- Brian 	Oviedo
+- Cintia 	Osorio Duarte
+- Jorge Agustín	Perez
+- Josué	Peralta
+- Martín Ariel	Oller
+- Martina	Octtinger
+- Matias	Ortiz
+- Nicolás	Oleinizak
+- Nidia Graciela	Osimani
+- Rodolfo	Paz
+- Ulises	Olmos
+- Victor	Palaguerra
+- Yanina	Pereyra
+------------
 
-Jorge Eduardo Peralta
-<br>
-Ulises Olmos
-<br>
-
-Mar desde VSCode
-
-Commit desde Visual Studio
+<sub> Ciencia de Datos e Inteligencia Artificial. Módulo Programador. ISPC 2022</sub>
